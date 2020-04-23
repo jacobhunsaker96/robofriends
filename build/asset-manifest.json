@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c1c3ccc.chunk.css",
+    "main.js": "/static/js/main.f8483000.chunk.js",
+    "main.js.map": "/static/js/main.f8483000.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a210e4d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a210e4d1.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.8fde3f13.chunk.js": "/static/js/2.8fde3f13.chunk.js",
+    "static/js/2.8fde3f13.chunk.js.map": "/static/js/2.8fde3f13.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.df0ef30a73788269a8b8216970597370.js": "/precache-manifest.df0ef30a73788269a8b8216970597370.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.6c1c3ccc.chunk.css.map": "/static/css/main.6c1c3ccc.chunk.css.map",
+    "static/js/2.8fde3f13.chunk.js.LICENSE.txt": "/static/js/2.8fde3f13.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Robot World.5ce3fc11.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a210e4d1.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.8fde3f13.chunk.js",
+    "static/css/main.6c1c3ccc.chunk.css",
+    "static/js/main.f8483000.chunk.js"
+  ]
+}
